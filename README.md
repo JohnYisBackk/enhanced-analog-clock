@@ -1,2 +1,20 @@
-# enhanced-analog-clock
-Enhanced analog clock built with HTML, CSS and JavaScript. Originally inspired by a YouTube tutorial and extended with custom improvements.
+# Enhanced Analog Clock
+
+An enhanced analog clock built using **HTML, CSS, and JavaScript**.  
+This project was originally inspired by a YouTube tutorial, but it has been **extended and improved with custom logic, styling, and functionality** as part of my personal portfolio.
+
+## 🚀 Features
+- Real-time analog clock
+- Smooth and accurate hand movement
+- Clean and responsive design
+- Custom improvements beyond the original tutorial
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📂 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/enhanced-analog-clock.git
