@@ -14,6 +14,10 @@ This project was originally inspired by a YouTube tutorial, but it has been **ex
 - CSS3
 - JavaScript (Vanilla)
 
+## Credits
+This project was inspired by a YouTube tutorial: [Watch Tutorial](https://www.youtube.com/watch?v=FKQqFn2j0Ys)
+All enhancements, improvements, and custom logic were implemented by JohnYboY.
+
 ## 📂 How to Run the Project
 1. Clone the repository:
    ```bash
